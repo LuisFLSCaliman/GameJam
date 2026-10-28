@@ -39,7 +39,6 @@ O alcance é mostrado por ** um portão de cemitério **. Clicar errado gasta mu
 - Cada inimigo eliminado vale **1 ponto**.
 - Se um inimigo alcançar o personagem, é **game over**.
 - A velocidade dos inimigos e a quantidade de inimigos simultanea aumenta de acordo com a pontuação, até um limite máximo.
-- Depois do game over, um clique reinicia a partida.
 - O **recorde** (maior pontuação) é salvo automaticamente e persiste entre execuções.
 
 ## Requisitos
